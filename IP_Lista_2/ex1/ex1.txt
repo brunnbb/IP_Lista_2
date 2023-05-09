@@ -1,0 +1,20 @@
+1) Apresente os resultados (true ou false) das seguintes expressões:
+
+5 + 3 * 6 / 2 >= 10
+True
+
+36 / 3 * 2 – 5 +8 == 27
+True
+
+! (30 / 4 * 6 == 15)
+True
+
+(30 % 4 * 6 == 12) || true
+True
+
+(5 * 7 % 3) + 4 / 2 + 5 == 12 && (12 / 4 < 8)
+ False
+
+
+(((5 * 7 % 3 + 5) / 2 + 5) <= 14) II (! (12 / 4 < 8 * 2))
+ True
